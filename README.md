@@ -1,18 +1,17 @@
-# Hi there, I'm [CHRIS]! 👋
+# Hi there, I'm CHRIS! 👋
 
-I'm a passionate [Web Developer] who loves building cool stuff and solving problems. Welcome to my GitHub profile!
+I'm a passionate Web Developer who loves building cool stuff and solving problems. Welcome to my GitHub profile!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[SoundCtrl]**.
-- 🌱 I’m learning **[Advanced web development]**.
-- 👯 I’m looking to collaborate on **[open-source, web development]**.
-- 💬 Ask me about **[JavaScript, Node.js]**.
-- 📫 How to reach me: **[chrisameh777@gmail.com]**.
-- 😄 Pronouns: **[Him/He]**.
-- ⚡ Fun fact: **[I like to challenge myself]**.
+- 🔭 I’m currently working on **SoundCtrl**.
+- 🌱 I’m learning **Advanced web development**.
+- 👯 I’m looking to collaborate on **open-source, web development**.
+- 💬 Ask me about **JavaScript, Node.js**.
+- 📫 How to reach me: **chrisameh777@gmail.com**.
+- ⚡ Fun fact: **I like to challenge myself**.
 
 ---
 
@@ -50,7 +49,7 @@ I'm a passionate [Web Developer] who loves building cool stuff and solving probl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](chrisameh777@gmail.com)
 
 
 ---
