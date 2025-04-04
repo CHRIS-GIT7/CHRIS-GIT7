@@ -39,7 +39,6 @@ I'm a passionate Web Developer who loves building cool stuff and solving problem
 
 ### [SoundCtrl](https://github.com/CHRIS-GIT7/SoundCtrl)
 - An app that connects Artists with Fans.
-- Technologies used: ![React](https://img.shields.io/badge/-React-Color) ![typescript](https://img.shields.io/badge/-typescript-Color)
 
 ---
 
