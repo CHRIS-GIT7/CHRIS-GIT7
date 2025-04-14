@@ -46,7 +46,7 @@ I'm a passionate Web Developer who loves building cool stuff and solving problem
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-ameh-9531a3360)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](chrisameh777@gmail.com)
