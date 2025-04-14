@@ -6,8 +6,7 @@ I'm a passionate Web Developer who loves building cool stuff and solving problem
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **SoundCtrl**.
-- 🌱 I’m learning **Advanced web development**.
+- 🔭 I’m currently exploring Fullstack Development along with various technologies.
 - 👯 I’m looking to collaborate on **open-source, web development**.
 - 💬 Ask me about **JavaScript, Node.js**.
 - 📫 How to reach me: **chrisameh777@gmail.com**.
