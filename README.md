@@ -7,9 +7,11 @@ I'm a passionate Web Developer who loves building cool stuff and solving problem
 ## 🚀 About Me
 
 - 🔭 I’m currently exploring Fullstack Development along with various technologies.
+  
 - 👯 I’m looking to collaborate on **open-source, web development**.
-- 💬 Ask me about **JavaScript, Node.js**.
-- 📫 How to reach me: **chrisameh777@gmail.com**.
+  
+- 💬 Ask me about **HTML, CSS, Tailwind css, JavaScript, Node.js**.
+
 - ⚡ Fun fact: **I like to challenge myself**.
 
 ---
