@@ -38,7 +38,7 @@ I'm a passionate Web Developer who loves building cool stuff and solving problem
 
 ## 📂 Featured Projects
 
-### [SoundCtrl](https://github.com/Brave-source/SoundCtrl)
+### [SoundCtrl](https://github.com/SoundCTRL/soundctrl-fans)
 - An app that connects Artists with Fans.
 
 ---
